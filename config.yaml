@@ -1,0 +1,5 @@
+faces_crops: ./data/faces_crops.csv
+faces_names: ./data/faces_names.csv
+images_data: ./data/images_data.json
+thumbnails: ./data/thumbnails/
+cozo_db: ./data/cozo.db
